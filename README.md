@@ -16,4 +16,9 @@ https://mlab.com/
 ```
 npm install
 node app.js
+
+>listening on localhost:8080
 ```
+
+`/verses` retrieves all the documents from MongoDB.
+`/new/:verse` add a new document to the Verses Collection
