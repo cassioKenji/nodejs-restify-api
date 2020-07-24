@@ -21,7 +21,7 @@
   "homepage": "https://github.com/cassioKenji/1ktrutas-nodejs-api#readme",
   "dependencies": {
     "mongoose": "^5.3.9",
-    "restify": "^5.0.0",
+    "restify": "^8.1.0",
     "restify-validator": "^0.3.1",
     "snyk": "^1.316.2"
   },
